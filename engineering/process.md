@@ -5,7 +5,7 @@ Our engineering process works well if it exhibits these traits:
 * **Focused:** we are extremely resource constrained, therefore focusing on the top priority  items is extremely important. A balance between creative tinkering, refactoring & new feature work has to be found and constantly adjusted. 
 * **Minimize process:** Process and structure should be kept at a mininum and applied only where it is truly beneficial and distracting from the task at hand at hand as little as possible. 
 * **Empowered contributors:** Every contributor should feel ownership over the work they do
-* **Accountability:** With ownership and empoweremnt should also come accountability.
+* **Accountability:** With ownership and empowerment should also come accountability.
 * **Scalable:** We need to be agile and efficient at our current stage but we also need to make sure we can scale this process beyond 10 contributors and beyond the scope of the team at Centrifuge.
 * **Open source friendly:** We want our development process to be accessible for external people and contributing should be possible and encouraged
 * **Emerging standards:** Instead of overthinking our process we should strive for adding and evolving practices as we see need for them, try things out and iterate on it.
